@@ -1,4 +1,4 @@
-package com.cncverse
+package com.cncsolanki 
 
 import android.app.Activity
 import android.content.Context
@@ -21,7 +21,7 @@ object StarPopupHelper {
     private const val TAG = "StarPopupHelper"
     private const val PREFS_NAME = "CNCVerseGlobalPrefs"
     private const val KEY_SHOWN_STAR_POPUP = "shown_star_popup_global"
-    private const val GITHUB_REPO_URL = "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension"
+    private const val GITHUB_REPO_URL =         "https://raw.githubusercontent.com/sparksolanki632-bot/Solankiverse/main/plugins.json"
     
     fun showStarPopupIfNeeded(context: Context) {
         val prefs = context.getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)
