@@ -1,4 +1,11 @@
-package com.cncverse
+{
+    "name": "Solankiverse",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/sparksolanki632-bot/Solankiverse/main/plugins.json"
+    ],
+    "logo": ""
+}
 
 import com.lagradost.cloudstream3.plugins.CloudstreamPlugin
 import com.lagradost.cloudstream3.plugins.Plugin
