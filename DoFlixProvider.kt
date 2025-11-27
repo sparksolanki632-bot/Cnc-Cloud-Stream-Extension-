@@ -1,4 +1,4 @@
-package com.cncverse
+package com.solankicnc
 
 import android.content.Context
 import com.lagradost.cloudstream3.*
