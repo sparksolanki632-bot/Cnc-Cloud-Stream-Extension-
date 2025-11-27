@@ -1,4 +1,4 @@
-package com.cncverse
+package com.cncsolanki
 
 import android.net.Uri
 import com.lagradost.cloudstream3.*
